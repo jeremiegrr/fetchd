@@ -22,10 +22,9 @@ binary for `muslc`. (Or just use this Dockerfile for your production setup).
 
 ### Pre Requisites for Ubuntu / Debian
 
-```
-# Ubuntu/Debian based linux distro dependencies
-apt install swig libboost-all-dev libgmp-dev
+# Download and install the MCL libraries
 
+```
 cd ~/Downloads
 wget https://github.com/herumi/mcl/archive/v1.05.tar.gz
 tar xvf v1.05.tar.gz
@@ -37,9 +36,6 @@ ldconfig
 ### Pre Requisites for MacOS
 
 ```
-# OS X dependencies
-brew install swig boost gmp
-
 cd ~/Downloads
 wget https://github.com/herumi/mcl/archive/v1.05.tar.gz
 tar xvf v1.05.tar.gz
