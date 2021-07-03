@@ -89,3 +89,5 @@ For example:
   <p class="admonition-title">Note</p>
   <p>When using CLI commands make sure that your CLI is pointing at the correct network. See the <a href="../cli-introduction/">CLI introduction documentation</a> for more details</p>
 </div>
+
+Read more about governance in the FET section (add link to the FET section when it's created)
